@@ -6,14 +6,13 @@
 ### CLIP
 
 * [CLIP 1](https://youtu.be/4FirKjjTNqQ) **R-Format**
-
 R- format เป็นคำสั่งประเภทหนึ่งของ MIPS ซึ่งมี 32-bit มี 6 ส่วน
    | op | rs | rt | rd | shamt | func |
    |----|----|----|----|----|----|
    
    รูปแบบ : func $rd, $rs, $rt
    
-ทำหน้าที่คำนวณข้อมูลที่เก็บไว้ที่ register *rs* และ register *rt* แล้วผลลัพธ์ที่ได้จากการคำนวณไปเก็บไว้ที่ register *rd* 
+ทำหน้าที่คำนวณข้อมูลที่เก็บไว้ที่ register *rs* 5-bit และ register *rt* 5-bit แล้วนำผลลัพธ์ที่ได้จากการคำนวณไปเก็บไว้ที่ register *rd* โดย func 6-bit เป็นตัวกำหนดการคำนวณ ( +, - ,...) ในส่วนของ op 6-bit ในคำสั่งประเภท R-Format จะมีค่าเป็น 0 ทั้ง 6-bit
 
 ```markdown
 Syntax highlighted code block
