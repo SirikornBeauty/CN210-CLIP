@@ -1,6 +1,7 @@
 ## CN210
 
-You can use the [editor on GitHub](https://github.com/SirikornBeauty/CN210-CLIP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+ที่นี่เป็นแหล่งรวม Link YouTube ที่สรุปเนื้อหาการเรียนในรายวิชา CN210 Fundamental of computer architecture : สถาปัตยกรรมคอมพิวเตอร์ 
+โดยแบ่งเป็นแต่ละหัวข้อตามด้านล่างนี้
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
