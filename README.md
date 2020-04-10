@@ -10,33 +10,40 @@
 R- format เป็นคำสั่งประเภทหนึ่งของ MIPS ซึ่งมี 32-bit มี 6 ส่วน
 
 |op | rs | rt | rd | shamt | func |
----|---|---|---|---|---|
-6-bit|5-bit|5-bit|5-bit|5-bit|6-bit|
+|---|---|---|---|---|---|
+|6-bit|5-bit|5-bit|5-bit|5-bit|6-bit|
 
    
 *func $rd, $rs, $rt*
    
 ทำหน้าที่คำนวณข้อมูลที่เก็บไว้ที่ register rs และ register rt แล้วนำผลลัพธ์ที่ได้จากการคำนวณไปเก็บไว้ที่ register rd โดย func เป็นตัวกำหนดการคำนวณ ( +, - ,...) ในส่วนของ op ในคำสั่งประเภท R-Format จะมีค่าเป็น 0 ทั้ง 6-bit
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+* [CLIP 2](https://youtu.be/baCNeNydnZY) **CPU**
 
-- Bulleted
-- List
+ยกตัวอย่างการทำงานของ MIPS CPU ตั้งแต่การเปิดเครื่องคอมพิวเตอร์ขึ้นมา โดยเริ่มจากการดูว่าตำแหน่งเริ่มต้นของ CPU ชี้ไปที่ Address ใด ซึ่งตำแหน่งเริ่มต้นอาจไม่ใช่ตำแหน่ง 0 เสมอไป จากนั้นให้ทำงานตามคำสั่งที่เก็บไว้ใน Address นั้นๆ ใน CLIP จะประกอบไปด้วยคำสั่งทั้ง 3 ประเภท ของ MIPS ได้แก่ R-Format, I-Format และJ-Format มีรายละเอียดดังต่อไปนี้ 
 
-1. Numbered
-2. List
+   * sub R-Format มี 6 ส่วน *(อธิบายไปแล้วในหัวข้อ CLIP 1 ด้านบน)*
+   
+   * sub I-Format มี 4 ส่วน ใช้ในการเคลื่อนย้ายข้อมูลที่เก็ยไว้ใน register
+   
+|op | rs | rt | value or offset |
+|---|---|---|---|
+|6-bit|5-bit|5-bit|16-bit|
 
-**Bold** and _Italic_ and `Code` text
+*lw $rt, offset($rs)* , *sw $rt, offset($rs)*
+   
+   * sub J-Format มี 2 ส่วน ใช้ในการ jump จากตำแหน่ง Address ปัจจุบันไปยังอีกตำแหน่งหนึ่ง
+   
+|op | absolute address |
+|---|---|
+|6-bit|26-bit|
 
-[Link](url) and ![Image](src)
-```
+*j address*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1 คำสั่งมี 4-bit ดังนั้นเมื่อทำงานจบ 1 คำสั่งแล้วก็จะไปทำคำสั่งที่ 4-bit ถัดไป 
+
+
 
 ### Jekyll Themes
 
