@@ -1,4 +1,4 @@
-# Welcome to GitHub Pages
+## CN210
 
 You can use the [editor on GitHub](https://github.com/SirikornBeauty/CN210-CLIP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
