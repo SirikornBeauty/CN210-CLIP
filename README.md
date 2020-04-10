@@ -1,11 +1,10 @@
 ## CN210
 
-ที่นี่เป็นแหล่งรวม Link YouTube ที่สรุปเนื้อหาการเรียนในรายวิชา CN210:สถาปัตยกรรมคอมพิวเตอร์ 
-(Fundamental of computer architecture) โดยแบ่งเป็นแต่ละหัวข้อตามด้านล่างนี้
+ที่นี่เป็นแหล่งรวม Link YouTube ที่สรุปเนื้อหาการเรียนในรายวิชา CN210 : Fundamental of computer architecture ที่ สิริกร แสงโชคานนท์ 6110613053 จัดทำโดยแบ่งเป็นแต่ละหัวข้อตามด้านล่างนี้
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### CLIP
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
