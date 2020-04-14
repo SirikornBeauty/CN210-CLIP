@@ -107,17 +107,4 @@ beq เป็นคำสั่งประเภท I- format เป็นค�
    
 ```
 
-### ETC.
 
-เนื่องด้วยพื้นที่นี้ไม่เกี่ยวข้องใดๆกับรายวิชา CN 210 เป็นพื้นที่โฆษณาเพียงเท่านี้สามารถมองผ่าน หรือ [เลือก](https://www.facebook.com/BeautyBlueBell-1515232612116148/) รับชมได้ค่ะ ขอบคุณค่ะ
-
-
-
-
-#### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SirikornBeauty/CN210-CLIP/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-#### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
