@@ -1,6 +1,6 @@
 # **วิชา CN210 : Fundamental of computer architecture**
 
-## สรุปเนื้อหา
+## **สรุปเนื้อหา**
 
 **Computer** ประกอบด้วย 
 
@@ -18,7 +18,7 @@
    
 **MIPS** เป็น CPU ที่เลือกมาศึกษาในรายวิชา CN210 ซึ่งแต่ละคำสั่ง 32-bit เท่ากันหมด
 
-### ส่งการบ้าน CLIP
+### **ส่งการบ้าน CLIP**
 
 * [CLIP 1](https://youtu.be/4FirKjjTNqQ) **R-Format**
 
