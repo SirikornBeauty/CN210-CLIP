@@ -6,11 +6,11 @@
 
    1.Central Processing Unit (CPU) ซึ่งประกอบด้วย 
    
-   *Artimetric and logic unit (ALU) 
+   * Artimetric and logic unit (ALU) 
       
-   *2.Register
+   * 2.Register
       
-   *3.Control Unit
+   * 3.Control Unit
    
    2.Main memory
    
