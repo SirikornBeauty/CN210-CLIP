@@ -12,7 +12,7 @@
    
 **MIPS** เป็น CPU ที่เลือกมาศึกษาในรายวิชา CN210 ซึ่งแต่ละคำสั่ง 32-bit เท่ากันหมด
 
-### CLIP
+### ส่งการบ้าน CLIP
 
 * [CLIP 1](https://youtu.be/4FirKjjTNqQ) **R-Format**
 
