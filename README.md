@@ -8,9 +8,9 @@
    
    * Artimetric and logic unit (ALU) 
       
-   * 2.Register
+   * Register
       
-   * 3.Control Unit
+   * Control Unit
    
    2.Main memory
    
