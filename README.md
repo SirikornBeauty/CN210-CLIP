@@ -5,9 +5,12 @@
 **Computer** ประกอบด้วย 
 
    1.Central Processing Unit (CPU) ซึ่งประกอบด้วย 
-      *Artimetric and logic unit (ALU) 
-      *2.Register
-      *3.Control Unit
+   
+   *Artimetric and logic unit (ALU) 
+      
+   *2.Register
+      
+   *3.Control Unit
    
    2.Main memory
    
