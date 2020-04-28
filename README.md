@@ -40,7 +40,7 @@
    
    * **Control units** ใน MIPS เป็นดังตารางนี้
    
-   ![image](https://www.cs.ucr.edu/~windhs/lab4/inc/fig_control_unit_0.png)
+   ![image](https://raw.githubusercontent.com/SirikornBeauty/CN210-CLIP/master/Screenshot%20(207).png)
    
 
 ### **การบ้าน CLIP**
