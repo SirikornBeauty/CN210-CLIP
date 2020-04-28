@@ -23,7 +23,7 @@
    * Von Neumann architecture จะรวม instructions memory และ data memory ไว้เป็น memory เดียวกัน
    
    * Harvard architecture จะแยก instructions memory และ data memory เป็นคนละอัน
-![image](https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile27.uf.tistory.com%2Fimage%2F22435E39590CA02344037F)
+![image](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-30367-9_2/MediaObjects/471053_1_En_2_Fig9_HTML.png)
 
 
    
@@ -171,5 +171,5 @@ Pipelining คือ หน่วยความจำที่อยู่ร�
 
 เปรียบเทียบการทำงานแต่ละคำสั่งของ Single cycle, Multi-cycle และ Pipelining ดังภาพนี้
 
-![image](https://images.slideplayer.com/36/10575219/slides/slide_9.jpg)
+![image](https://img1.daumcdn.net/thumb/R720x0.q80/?scode=mtistory2&fname=http%3A%2F%2Fcfile27.uf.tistory.com%2Fimage%2F22435E39590CA02344037F)
  
