@@ -24,6 +24,15 @@
    
 **MIPS** เป็น CPU ที่เลือกมาศึกษาในรายวิชา CN210 ซึ่งแต่ละคำสั่ง 32-bit เท่ากันหมด
 
+   * **ALU Control Bits** ใน MIPS เป็นดังตารางนี้
+   
+   ![image](https://www.cs.ucr.edu/~windhs/lab4/inc/fig_alu_control_0.png)
+   
+   * **Control units** ใน MIPS เป็นดังตารางนี้
+   
+   ![image](https://www.cs.ucr.edu/~windhs/lab4/inc/fig_control_unit_0.png)
+   
+
 
 
 ### **ส่งการบ้าน CLIP**
