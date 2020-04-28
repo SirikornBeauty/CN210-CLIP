@@ -26,7 +26,9 @@
    
 ![image](https://media.springernature.com/original/springer-static/image/chp%3A10.1007%2F978-3-030-30367-9_2/MediaObjects/471053_1_En_2_Fig9_HTML.png)
 
+**CISC VS RISC**
 
+   * CISC (Complex Instruction Set Computer)
    
 **MIPS** เป็น CPU ที่เลือกมาศึกษาในรายวิชา CN210 ซึ่งแต่ละคำสั่ง 32-bit เท่ากันหมด
 
@@ -41,18 +43,18 @@
 
 
 
-### **ส่งการบ้าน CLIP**
+### **การบ้าน CLIP**
 
 * [CLIP 1](https://youtu.be/4FirKjjTNqQ) **R-Format**
 
-R- format เป็นคำสั่งประเภทหนึ่งของ MIPS ซึ่งมี 32-bit มี 6 ส่วน
+R- format เป็นคำสั่งประเภทหนึ่งของ MIPS ซึ่งมี 32-bit มี 6 ส่วน ใช้ในการคำนวณทางคณิตศาสตร์
 
 |op | rs | rt | rd | shamt | func |
 |---|---|---|---|---|---|
 |6-bit|5-bit|5-bit|5-bit|5-bit|6-bit|
 
    
-*func $rd, $rs, $rt*
+`func $rd, $rs, $rt`
    
 ทำหน้าที่คำนวณข้อมูลที่เก็บไว้ที่ register rs และ register rt แล้วนำผลลัพธ์ที่ได้จากการคำนวณไปเก็บไว้ที่ register rd โดย func เป็นตัวกำหนดการคำนวณ ( +, - ,...) ในส่วนของ op ในคำสั่งประเภท R-Format จะมีค่าเป็น 0 ทั้ง 6-bit
 
