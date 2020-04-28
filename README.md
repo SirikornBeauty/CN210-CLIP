@@ -16,6 +16,8 @@
    
    3.Input/Output
    
+![image](https://en.wikipedia.org/wiki/Von_Neumann_architecture#/media/File:Von_Neumann_Architecture.svg)
+   
 **MIPS** เป็น CPU ที่เลือกมาศึกษาในรายวิชา CN210 ซึ่งแต่ละคำสั่ง 32-bit เท่ากันหมด
 
 ### **ส่งการบ้าน CLIP**
