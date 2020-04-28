@@ -171,5 +171,5 @@ Pipelining คือ หน่วยความจำที่อยู่ร�
 
 การเปรียบเทียบกับ Single cycle, Multi-cycle และ Pipelining ดังภาพนี้
 
-![image](https://www.massey.ac.nz/~mjjohnso/notes/59304/Image158.gif)
+![image](https://images.slideplayer.com/36/10575219/slides/slide_9.jpg)
  
