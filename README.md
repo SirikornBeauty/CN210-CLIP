@@ -2,8 +2,6 @@
 
 ## **สรุปเนื้อหา**
 
-   ![image](https://www.computerscience.gcse.guru/wp-content/uploads/2016/04/Von-Neumann-Architecture-Diagram.jpg)
-
 **Computer** ประกอบด้วย 
 
    1.Central Processing Unit (CPU) ซึ่งประกอบด้วย 
@@ -17,6 +15,8 @@
    2.Main memory
    
    3.Input/Output
+   
+   ![image](https://www.computerscience.gcse.guru/wp-content/uploads/2016/04/Von-Neumann-Architecture-Diagram.jpg)
  
  **Von Neumann architecture & Harvard architecture**
  
