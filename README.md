@@ -140,6 +140,8 @@ beq เป็นคำสั่ง jump แบบมีเงื่อนไข 
 ```
 
 * [CLIP 6](https://youtu.be/kUeTkPxn3ps) **control signal R-format**
+
+![image](https://raw.githubusercontent.com/SirikornBeauty/CN210-CLIP/master/Screenshot%20(206).png)
    
 อธิบายการทำงาน control signal ของคำสั่ง R-format ทั้ง 4 cycle ดังนี้ 
 
