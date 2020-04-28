@@ -1,4 +1,4 @@
-# **วิชา CN210 : Fundamental of computer architecture**
+# **CN210 : Fundamental of computer architecture**
 
 ## **สรุปเนื้อหา**
 
