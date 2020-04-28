@@ -30,11 +30,17 @@
 
    * CISC (Complex Instruction Set Computer)
    
+   * RISC (Reduced Instruction Set Computer)
+   
 **MIPS** เป็น CPU ที่เลือกมาศึกษาในรายวิชา CN210 ซึ่งแต่ละคำสั่ง 32-bit เท่ากันหมด
 
    * **ALU Control Bits** ใน MIPS เป็นดังตารางนี้
    
    ![image](https://www.cs.ucr.edu/~windhs/lab4/inc/fig_alu_control_0.png)
+   
+   * **Control units** ใน MIPS เป็นดังตารางนี้
+   
+   ![image](https://www.cs.ucr.edu/~windhs/lab4/inc/fig_control_unit_0.png)
    
 
 ### **การบ้าน CLIP**
@@ -134,10 +140,6 @@ beq เป็นคำสั่ง jump แบบมีเงื่อนไข 
 ```
 
 * [CLIP 6](https://youtu.be/kUeTkPxn3ps) **control signal R-format**
-
-**Control units** ใน MIPS เป็นดังตารางนี้
-   
-   ![image](https://www.cs.ucr.edu/~windhs/lab4/inc/fig_control_unit_0.png)
    
 อธิบายการทำงาน control signal ของคำสั่ง R-format ทั้ง 4 cycle ดังนี้ 
 
