@@ -19,6 +19,7 @@
    3.Input/Output
  
  **Von Neumann architecture & Harvard architecture**
+ 
    * Von Neumann architecture จะรวม instructions memory และ data memory ไว้เป็น memory เดียวกัน
    
    * Harvard architecture จะแยก instructions memory และ data memory เป็นคนละอัน
